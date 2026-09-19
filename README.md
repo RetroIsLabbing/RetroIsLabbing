@@ -80,7 +80,8 @@ me = {
     <td align="center">🔴<br/><b>Huawei</b><br/>HCIA - Datacom<br/><sub>ICT Academy</sub></td>
     <td align="center">🔴<br/><b>Huawei</b><br/>HCIA - WLAN<br/><sub>ICT Academy</sub></td>
     <td align="center">☁️<br/><b>CSA</b><br/>CCSK v4.1 Foundation<br/><sub>Cloud Security Alliance</sub></td>
-    <td align="center">🌍<br/><b>ALX</b><br/>Professional Foundations<br/><sub>ALX Africa</sub></td>
+    <td align="center">🌍<br/><b>ALX</b><br/>Professional Foundations<br/>
+        <br/>Cyber Security<br/><sub>ALX Africa</sub></td>
   </tr>
 </table>
 
